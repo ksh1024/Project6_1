@@ -67,13 +67,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/btn_done"
-            android:textSize="20sp"
-            android:padding="15dp"/>
+            android:textSize="17sp"
+            android:padding="15dp"
+            android:layout_marginLeft="5dp"/>
         <TextView
             android:id="@+id/textResult"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
+            android:textSize="15sp"
             android:padding="15dp"/>
     </LinearLayout>
 </LinearLayout>
